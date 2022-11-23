@@ -21,6 +21,7 @@
                     <div class="col-sm-3">
                         <input type="text" class="form-control" name="nome">
                     </div>
+
                 </div>
                 <div class="row mb-3">
                     <label class="col-sm-2 col-form-label">CNPJ</label>
@@ -29,6 +30,7 @@
                     </div>
                 </div> 
                 <div class="row mb-3">
+
                     <label class="col-sm-2 col-form-label">Descrição</label>
                     <div class="col-sm-3">
                         <input type="text" class="form-control"  name="descricao">
